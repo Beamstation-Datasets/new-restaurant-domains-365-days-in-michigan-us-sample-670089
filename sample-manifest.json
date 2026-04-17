@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6a09a46d-545d-47a5-aa28-be04db04c53b",
+  "id_short": 670089,
+  "published_at": "2026-04-17T07:03:28Z",
+  "repo_name": "new-restaurant-domains-365-days-in-michigan-us-sample-670089",
+  "sample_asset_name": "beamstation_670089_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/670089/beamstation_670089_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_records": 58,
+  "sample_sha256": "7016df4eb03b33a9bd6127a64000cf46ffc7999be144730bb07fc1b99405bf92",
+  "sample_size_bytes": 217397,
+  "total_records": 585
+}
