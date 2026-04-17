@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Michigan, US",
+  "export_job_id": "6a09a46d-545d-47a5-aa28-be04db04c53b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 670089,
+  "location_name": "Michigan",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-michigan-us-sample-670089",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/670089/beamstation_670089_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 58,
+  "sample_sha256": "7016df4eb03b33a9bd6127a64000cf46ffc7999be144730bb07fc1b99405bf92",
+  "sample_size_bytes": 217397,
+  "total_records": 585,
+  "updated_at": "2026-04-09T21:11:44.109187+00:00"
+}
